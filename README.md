@@ -7,3 +7,7 @@ orange: (253, 133, 0)
 red: (247, 0, 94)
 purple: (157, 96, 255)
 yellow: (224, 215, 90)
+
+Example:
+
+![Monokai](https://raw.githubusercontent.com/cgoecknerwald/monokaicolors/master/example.png)
