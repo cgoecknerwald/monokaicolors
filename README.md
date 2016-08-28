@@ -18,6 +18,8 @@ black: (29, 30, 25)
 
 white: (246, 247, 238)
 
+grey: (98, 95, 75)
+
 ## Adobe RGB on Macbook Pro Color LCD
 
 blue: (143, 216, 239)
@@ -35,6 +37,8 @@ yellow: (227, 219, 115)
 black: (44, 44, 39)
 
 white: (248, 248, 242)
+
+grey: (115, 113, 94)
 
 Example:
 
