@@ -1,5 +1,5 @@
-# monokaicolors
-Lists the SublimeText 3 Monokai colors in RGB
+Monokai Colors: Generic RGB on Macbook Pro Color LCD
+Inspected using Digital Color Meter
 
 blue: (83, 209, 237)
 green: (150, 227, 9)
