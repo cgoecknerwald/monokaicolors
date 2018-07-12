@@ -2,40 +2,40 @@
 
 ## Generic RGB on Macbook Pro Color LCD
 
-blue: (83, 209, 237)
+blue: (83, 209, 237) #53d1ed
 
-green: (150, 227, 9)
+green: (150, 227, 9) #96e309
 
-orange: (253, 133, 0)
+orange: (253, 133, 0) #fd8500
 
-red: (247, 0, 94)
+red: (247, 0, 94) #f7005e
 
-purple: (157, 96, 255)
+purple: (157, 96, 255) #9d60ff
 
-yellow: (224, 215, 90)
+yellow: (224, 215, 90) #e0d75a
 
-black: (29, 30, 25)
+black: (29, 30, 25) #1d1e19
 
-white: (246, 247, 238)
+white: (246, 247, 238) #f6f7ee
 
-grey: (98, 95, 75)
+grey: (98, 95, 75) #625f4b
 
 ## Adobe RGB on Macbook Pro Color LCD
 
-blue: (143, 216, 239)
+blue: (143, 216, 239) #8fd8ef
 
-green: (184, 227, 54)
+green: (184, 227, 54) #b8e336
 
-orange: (231, 150, 27)
+orange: (231, 150, 27) #e7961b
 
-red: (217, 36, 110)
+red: (217, 36, 110) #d9246e
 
-purple: (161, 124, 255)
+purple: (161, 124, 255) #a17cff
 
-yellow: (227, 219, 115)
+yellow: (227, 219, 115) #e3db73
 
-black: (44, 44, 39)
+black: (44, 44, 39) #2c2c27
 
-white: (248, 248, 242)
+white: (248, 248, 242) #f8f8f2
 
-grey: (115, 113, 94)
+grey: (115, 113, 94) #73715e
